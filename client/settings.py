@@ -157,9 +157,9 @@ STATIC_URL = '/static/'
 
 ALLOWED_HOSTS = [
    '*',
-   'http://whispering-refuge-90007.herokuapp.com/',
-   'https://whispering-refuge-90007.herokuapp.com/',
-   'whispering-refuge-90007.herokuapp.com',
-   'whispering-refuge-90007.herokuapp.com/',
+   'http://sleepy-wave-12866.herokuapp.com/',
+   'https://sleepy-wave-12866.herokuapp.com/',
+   'sleepy-wave-12866.herokuapp.com',
+   'sleepy-wave-12866.herokuapp.com/',
    '127.0.0.1',
 ]
