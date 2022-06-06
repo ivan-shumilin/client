@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from .forms import NameForm
 
-defindex(request):
+def index(request):
     if request.method == 'POST':
         form = NameForm(request.POST)
         if form.is_valid():
